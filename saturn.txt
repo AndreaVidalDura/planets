@@ -1,1 +1,3 @@
-this planet has rings
+
+this planet has rings and is further than Jupiter.
+
